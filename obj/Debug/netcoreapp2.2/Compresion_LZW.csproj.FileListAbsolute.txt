@@ -1,0 +1,11 @@
+C:\Users\BRANDON\source\repos\Compresion_LZW\bin\Debug\netcoreapp2.2\Compresion_LZW.deps.json
+C:\Users\BRANDON\source\repos\Compresion_LZW\bin\Debug\netcoreapp2.2\Compresion_LZW.runtimeconfig.json
+C:\Users\BRANDON\source\repos\Compresion_LZW\bin\Debug\netcoreapp2.2\Compresion_LZW.runtimeconfig.dev.json
+C:\Users\BRANDON\source\repos\Compresion_LZW\bin\Debug\netcoreapp2.2\Compresion_LZW.dll
+C:\Users\BRANDON\source\repos\Compresion_LZW\bin\Debug\netcoreapp2.2\Compresion_LZW.pdb
+C:\Users\BRANDON\source\repos\Compresion_LZW\obj\Debug\netcoreapp2.2\Compresion_LZW.csprojAssemblyReference.cache
+C:\Users\BRANDON\source\repos\Compresion_LZW\obj\Debug\netcoreapp2.2\Compresion_LZW.csproj.CoreCompileInputs.cache
+C:\Users\BRANDON\source\repos\Compresion_LZW\obj\Debug\netcoreapp2.2\Compresion_LZW.AssemblyInfoInputs.cache
+C:\Users\BRANDON\source\repos\Compresion_LZW\obj\Debug\netcoreapp2.2\Compresion_LZW.AssemblyInfo.cs
+C:\Users\BRANDON\source\repos\Compresion_LZW\obj\Debug\netcoreapp2.2\Compresion_LZW.dll
+C:\Users\BRANDON\source\repos\Compresion_LZW\obj\Debug\netcoreapp2.2\Compresion_LZW.pdb
